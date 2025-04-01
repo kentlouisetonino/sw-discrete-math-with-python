@@ -23,6 +23,8 @@ Examples:
 
 <br />
 
-`Set Theory`
+`1. Set Theory`
 
-A `set` is a collection of elements.
+> - A `set` is a collection of elements.
+
+> -
