@@ -31,3 +31,20 @@ Examples:
 
 - It is the basis of other fields of studies such as relations, computing, <br />
   theory, and finite state machines.
+
+- Can be represented by using `roster` or `tabular form`.
+
+| Example: Roster or Tabular Form |
+| ------------------------------- |
+| ![roster-or-tabular-form](./images/01-roster-tabular-form.png) |
+
+<br />
+
+- Can also be represented by using a `Set Builder Notation`.
+
+- This method uses basic algebraic notation to describe properties of the <br />
+  elements in a set.
+
+| Example: Set-Builder Notation |
+| ----------------------------- |
+| ![set-builder-notation](./images/02-set-builder-notation.png) |
