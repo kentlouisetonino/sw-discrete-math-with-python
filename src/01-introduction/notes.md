@@ -25,6 +25,9 @@ Examples:
 
 `1. Set Theory`
 
-> - A `set` is a collection of elements.
+- A `set` is a collection of elements.
 
-> -
+- `Set Theory` deals with well-defined collection of elements or objects.
+
+- It is the basis of other fields of studies such as relations, computing, <br />
+  theory, and finite state machines.
