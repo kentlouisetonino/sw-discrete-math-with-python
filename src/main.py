@@ -5,7 +5,8 @@ from helper import helper
 helper.clear_screen()
 helper.new_lines(3)
 
-# Module 01: Set Theory.
+# Shows the examples based on every module.
+# Comment out the examples you want to display.
 module_01_main.examples()
 
 # Add a new lines at the end.
